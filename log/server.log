@@ -1,0 +1,47 @@
+[2025-02-14 15:38:37] Server running on port 8080...
+
+[2025-02-14 15:38:37] New client connected!
+
+[2025-02-14 15:38:37] New client connected!
+
+[2025-02-14 15:38:37] Received request: GET /index.html
+[2025-02-14 15:38:38] New client connected!
+
+[2025-02-14 15:38:45] Received request: GET /index.html
+[2025-02-14 15:38:51] Received request: GET /about.html
+[2025-02-14 15:38:51] New client connected!
+
+[2025-02-14 15:39:16] Received request: GET /index.html
+[2025-02-14 15:39:16] New client connected!
+
+[2025-02-14 15:39:17] Received request: GET /index.html
+[2025-02-14 15:39:17] New client connected!
+
+[2025-02-14 15:39:27] Received request: GET /index.html
+[2025-02-14 15:39:28] New client connected!
+
+[2025-02-14 15:39:28] Received request: GET /index.html
+[2025-02-14 15:39:29] New client connected!
+
+[2025-02-14 15:40:13] Received request: GET /index.html
+[2025-02-14 15:40:13] New client connected!
+
+[2025-02-14 15:40:34] Received request: GET /index.html
+[2025-02-14 15:40:34] New client connected!
+
+[2025-02-14 15:40:35] Received request: GET /index.html
+[2025-02-14 15:40:35] New client connected!
+
+[2025-02-14 15:40:35] Received request: GET /index.html
+[2025-02-14 15:40:36] New client connected!
+
+[2025-02-14 15:41:08] Received request: GET /index.html
+[2025-02-14 15:41:08] New client connected!
+
+[2025-02-14 15:41:09] Received request: GET /index.html
+[2025-02-14 15:41:10] New client connected!
+
+[2025-02-14 15:41:44] Server running on port 8080...
+
+
+
